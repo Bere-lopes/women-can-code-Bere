@@ -1,11 +1,13 @@
-var VARIAVEL;
-var variavel;
-var Variavel;
 
-VARIAVELCAPITALIZADA = 10;
+var variavelRuim;
+var variavelAdequada;
+var VariavelTitular;
+
+
+variavelCapitalizada= 10;
 variavelAdequada = "A String";
-VAriaVELTItular = 9000;
+VariavelTitular= 9000;
 
-console.log(VARIAVELCAPITALIZADA)
+console.log(variavelCapitalizada)
 console.log(variavelAdequada)
-console.log(VAriaVELTItular)
+console.log(VariavelTitular)
